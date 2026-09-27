@@ -1,6 +1,4 @@
-# Tejas Kulkarni
-
-I'm interested in machine learning systems research and classical ML methods, studying how models behave under real-world compute and scale constraints. I focus on understanding systems from first principles, investigating how algorithmic design, memory hierarchies, and infrastructure interact at scale.
+Hi, I'm Tejas. I'm interested in machine learning systems research and classical ML methods, studying how models behave under real-world compute and scale constraints. I focus on understanding systems from first principles, investigating how algorithmic design, memory hierarchies, and infrastructure interact at scale.
 
 ---
 
