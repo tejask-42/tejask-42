@@ -4,7 +4,7 @@ Hi, I'm Tejas. I'm interested in machine learning systems research and classical
 
 ### What I've Built
 
-- **[ML Training Infrastructure](https://github.com/tejask-42/ml-training-infrastructure)** ([Live Documentation](https://tejask-42.github.io/ml-training-infrastructure))  
+- **[ML Training Infrastructure](https://tejask-42.github.io/ml-training-infrastructure)**  
   An in-depth technical explainer and runnable implementation of Kubernetes-native ML pipelines with Argo Workflows and Apache Spark.
 
 - **[XGBoost with Incremental Learning](https://github.com/tejask-42/XGBoost)**  
